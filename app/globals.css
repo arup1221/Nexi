@@ -14,6 +14,10 @@
 .cl-internal-1o11va6 {
   color: white;
 }
+.cl-userButtonPopoverActionButton:hover {
+  background-color: #252531;
+  color: white;
+}
 /*  need hover property in cl-internal-1o11va6  */
 
 .cl-internal-1nn89fl {
